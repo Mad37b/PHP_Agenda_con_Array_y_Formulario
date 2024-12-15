@@ -1,0 +1,18 @@
+
+body{background: rgb(121,116,198); background: linear-gradient(90deg, rgba(121,116,198,1) 0%, rgba(255,255,255,1) 98%, rgba(0,212,255,0) 100%);}
+
+.contenedor{display: flex; justify-content: center; border:3px solid black; margin: 5px; background-color: gray;}
+.contenedorAgenda{display: flex;justify-content: center;align-content: center;flex-direction: column;border:3px solid black; background-color: azure;
+}
+
+.formulario{
+background-color:aquamarine;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+margin: 10px;
+}
+
+.resultados{border: 4px black solid;}
+
+.error{color: red;}
+
+.limpiar{border: 4px black solid;}
